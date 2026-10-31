@@ -1,0 +1,51 @@
+{
+  "version": "1.0.1",
+  "notes": "Desktop application built from 56c9a59f8dfa138f16afd3ccff5d394a13801162",
+  "pub_date": "2026-05-25T23:14:52.144Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFBXS1BqVE4xSGhwM3ZYNWFrWVFBVVVxT2thRkVJL05yRSt1T21qQ21ObG1ZeFZ1MXFKVmVvWEZmaStMK0gveUJsOVZqY2tIL2Zqdk1GWE94RnhveDBTbTd1SUZKbHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzUwNzg1CWZpbGU6T3BlbkphcnZpcy5hcHAudGFyLmd6CkJsTEgzYW43TE13a0R0UGFTL0svNGJ2R0Qva3Qrc0hrVFp2aXczYWZOZVZHeENNNnVybGV2OVhqK0tpR29Kb0lPSkRtRVlGdTJxYWU4OXBuQTF2VEFBPT0K",
+      "url": "https://github.com/open-jarvis/OpenJarvis/releases/download/desktop-v1.0.2/OpenJarvis_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFBXS1BqVE4xSGhwM3ZYNWFrWVFBVVVxT2thRkVJL05yRSt1T21qQ21ObG1ZeFZ1MXFKVmVvWEZmaStMK0gveUJsOVZqY2tIL2Zqdk1GWE94RnhveDBTbTd1SUZKbHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzUwNzg1CWZpbGU6T3BlbkphcnZpcy5hcHAudGFyLmd6CkJsTEgzYW43TE13a0R0UGFTL0svNGJ2R0Qva3Qrc0hrVFp2aXczYWZOZVZHeENNNnVybGV2OVhqK0tpR29Kb0lPSkRtRVlGdTJxYWU4OXBuQTF2VEFBPT0K",
+      "url": "https://github.com/open-jarvis/OpenJarvis/releases/download/desktop-v1.0.2/OpenJarvis_universal.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFBXS1BqVE4xSGhwM3ZYNWFrWVFBVVVxT2thRkVJL05yRSt1T21qQ21ObG1ZeFZ1MXFKVmVvWEZmaStMK0gveUJsOVZqY2tIL2Zqdk1GWE94RnhveDBTbTd1SUZKbHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzUwNzg1CWZpbGU6T3BlbkphcnZpcy5hcHAudGFyLmd6CkJsTEgzYW43TE13a0R0UGFTL0svNGJ2R0Qva3Qrc0hrVFp2aXczYWZOZVZHeENNNnVybGV2OVhqK0tpR29Kb0lPSkRtRVlGdTJxYWU4OXBuQTF2VEFBPT0K",
+      "url": "https://github.com/open-jarvis/OpenJarvis/releases/download/desktop-v1.0.2/OpenJarvis_universal.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFBXS1BqVE4xSGhwM3ZYNWFrWVFBVVVxT2thRkVJL05yRSt1T21qQ21ObG1ZeFZ1MXFKVmVvWEZmaStMK0gveUJsOVZqY2tIL2Zqdk1GWE94RnhveDBTbTd1SUZKbHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzUwNzg1CWZpbGU6T3BlbkphcnZpcy5hcHAudGFyLmd6CkJsTEgzYW43TE13a0R0UGFTL0svNGJ2R0Qva3Qrc0hrVFp2aXczYWZOZVZHeENNNnVybGV2OVhqK0tpR29Kb0lPSkRtRVlGdTJxYWU4OXBuQTF2VEFBPT0K",
+      "url": "https://github.com/open-jarvis/OpenJarvis/releases/download/desktop-v1.0.2/OpenJarvis_universal.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFBXS1BqVE4xSG9ob29yWDVWWUVEcW1oUjVIREhndk84dTZ4OTlIa3hCaW5JNHArdVRKK0FmSDk5eWo1aGhabWo2QlVyRVl6Qk5iRDRPd0ZTYVdHNytTekZkZzdmNFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzUwODU0CWZpbGU6T3BlbkphcnZpc18xLjAuMV9hbWQ2NC5BcHBJbWFnZQp2WWphSnlKMmFuVFZnRDkwMkN2bXYzRWxKWGJHZnFNUVY4NHVjQXN6eWNwOXFqdW9VK1JZRFdZMHJiaktPSzNWNE1WckdFZkpGbDZTU2JjaDlkNWZDdz09Cg==",
+      "url": "https://github.com/open-jarvis/OpenJarvis/releases/download/desktop-v1.0.2/OpenJarvis_1.0.1_amd64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFBXS1BqVE4xSG9ob29yWDVWWUVEcW1oUjVIREhndk84dTZ4OTlIa3hCaW5JNHArdVRKK0FmSDk5eWo1aGhabWo2QlVyRVl6Qk5iRDRPd0ZTYVdHNytTekZkZzdmNFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzUwODU0CWZpbGU6T3BlbkphcnZpc18xLjAuMV9hbWQ2NC5BcHBJbWFnZQp2WWphSnlKMmFuVFZnRDkwMkN2bXYzRWxKWGJHZnFNUVY4NHVjQXN6eWNwOXFqdW9VK1JZRFdZMHJiaktPSzNWNE1WckdFZkpGbDZTU2JjaDlkNWZDdz09Cg==",
+      "url": "https://github.com/open-jarvis/OpenJarvis/releases/download/desktop-v1.0.2/OpenJarvis_1.0.1_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFBXS1BqVE4xSHVlSnBja1g1bjNuTU11TjlCV2xqUHlQR3hGOFpmdDdmQUcwRkF3OTdPdjEveWtGeTlyRTlJWTJKRWRwNzF0SmRVMms0cWZEdGc4aXgyYUREbEJLWHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzUwODU0CWZpbGU6T3BlbkphcnZpc18xLjAuMV9hbWQ2NC5kZWIKVGJsQ29JQkxOTnJNVG44QlNyZDBLSFNVMjQ3c3NKWEZFQ2M0NS9neE5LbEx6QkRPUElrUkV2aFhaeFl1cFlUMU5vYmg3OVBxbk5XWkVBNVh3WXdWQlE9PQo=",
+      "url": "https://github.com/open-jarvis/OpenJarvis/releases/download/desktop-v1.0.2/OpenJarvis_1.0.1_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFBXS1BqVE4xSHZuWkV4TmQ1bUU5K2lsVmh6dU94RXR6aHRaN09sK05Ta0N5Nms5S096UDNuMHFoYXBKUXNHRld5WHpBWWhwT09ZVG11UURlK3doY3h3WmpnOEMrNkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzUwODU0CWZpbGU6T3BlbkphcnZpcy0xLjAuMS0xLng4Nl82NC5ycG0KOGNUR3VJL3NNaHNBRmRvWEJlMDFGeCtaYUJPOFRYanJZd2txbWlBcEg0S01qeGNldnZPMk0vVTZ6M3BUOVV0aXV4eEdCbHljVkhOeG1wRHNyM1BIQnc9PQo=",
+      "url": "https://github.com/open-jarvis/OpenJarvis/releases/download/desktop-v1.0.2/OpenJarvis-1.0.1-1.x86_64.rpm"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFBXS1BqVE4xSGpCTXRlS2thRU1WZWdCSWYydXlId1NmcS9KZE94SVVia2c4NUNHM25acmZnZzJHTFkveG5zVWViOHUzWjVvQ1MwVjZLMUZ0WVNIdWJKU3cxWUZYdVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzUwODg3CWZpbGU6T3BlbkphcnZpc18xLjAuMV94NjRfZW4tVVMubXNpCmFUS0VDcStnQzdTcDJkR2pvall0MXVGNmIzcGZ6SGtad20vdnEwM0w2UGpKbUlscWVJcFJUa044Y3ZLMEZ4OWN1bXdKYXp5WFBqWm5NeVNpWmRucURRPT0K",
+      "url": "https://github.com/open-jarvis/OpenJarvis/releases/download/desktop-v1.0.2/OpenJarvis_1.0.1_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFBXS1BqVE4xSGpCTXRlS2thRU1WZWdCSWYydXlId1NmcS9KZE94SVVia2c4NUNHM25acmZnZzJHTFkveG5zVWViOHUzWjVvQ1MwVjZLMUZ0WVNIdWJKU3cxWUZYdVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzUwODg3CWZpbGU6T3BlbkphcnZpc18xLjAuMV94NjRfZW4tVVMubXNpCmFUS0VDcStnQzdTcDJkR2pvall0MXVGNmIzcGZ6SGtad20vdnEwM0w2UGpKbUlscWVJcFJUa044Y3ZLMEZ4OWN1bXdKYXp5WFBqWm5NeVNpWmRucURRPT0K",
+      "url": "https://github.com/open-jarvis/OpenJarvis/releases/download/desktop-v1.0.2/OpenJarvis_1.0.1_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFBXS1BqVE4xSGx5Z1RLeVY1SzIwTzBYTzZLbVI1Q2RJbEU2R0l0TUhXb3ZKR2RGbklHWkZXbWRCM3IvMDVPdzVFUjlXbGFycTJVSVdoWm54ZHZEdk8zdk5oNnZiUEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzUwODg3CWZpbGU6T3BlbkphcnZpc18xLjAuMV94NjQtc2V0dXAuZXhlCmFvbVFPU2grZ3hUdmFUUXVyLyt0VWNVaU5QTE4rZXFrc3Blblhpei9RRHpmcjVGNmpsaGhjMjNqdWNWMXFjUUhyMHRFdTZHUC92dXNoUGREWXFUTUR3PT0K",
+      "url": "https://github.com/open-jarvis/OpenJarvis/releases/download/desktop-v1.0.2/OpenJarvis_1.0.1_x64-setup.exe"
+    }
+  }
+}
